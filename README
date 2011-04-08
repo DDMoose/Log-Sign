@@ -1,0 +1,34 @@
+LogSign v0.3b
+by DDMoose
+(A DeathSign fork)
+
+Install
+------------------
+1. If your Minecraft server is running stop the server
+2. Extract zip file
+3. Copy the LogSign folder and LogSign.jar into your servers plugin folder
+4. Restart the server and enjoy
+
+
+Bugs & Errors
+------------------
+Found a Bug? Got an error?
+There is a couple ways you can report it
+https://github.com/DDMoose/LogSign/issues
+DevilDocMoose@comcast.net
+(*Which ever way you choose please be sure to include CraftBukkit version.
+plugin version, any errors from the server log, what you were doing when 
+you got the error, and any other info you think might be important.*)
+
+
+Special Thanks
+------------------
+DeathSign Dev Team
+-scoutisimba
+-codename_B
+Concept Idea
+-Brock Blocking Samson
+Beta Testers
+-TaintedLives
+-Lilith8984
+-DevyOrHal
